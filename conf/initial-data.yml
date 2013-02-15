@@ -1,0 +1,17 @@
+#Contacts
+    - !!models.Contact
+        firstName:      Michael
+        lastName:       Janiak
+        emailAddress:   michael@vaccinekeeper.com
+        description:    It's me
+
+    - !!models.Contact
+        firstName:      Prasith
+        lastName:       Govin
+        emailAddress:   prasith@vaccinekeeper.com
+        description:    Brown guy
+
+    - !!models.Contact
+        firstName:      Bill
+        lastName:       Gates
+        emailAddress:   bill.gates@microsoft.com
